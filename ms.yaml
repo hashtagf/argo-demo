@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: git@github.com:hashtagf/argo-demo.git
     targetRevision: main
-    path: deployments
+    path: app
     directory:
       recurse: true
   destination:
